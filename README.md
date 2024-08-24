@@ -13,7 +13,7 @@ Steps to use :
 -     export your google keep notes with takeout
 -     unzip the downloaded archive
 -     cd to the Keep folder
-- 	  download this python script to the folder you are in
+- 	  download GKeepToNotes.py to the folder you are in
 -     from this folder run
 -     python3 GKeepToNotes.py *.json
 -     import ./res/notes_converted.json (I used adb to transfer the file) in notes and hope it works
