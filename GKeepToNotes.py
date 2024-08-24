@@ -5,7 +5,7 @@ from datetime import datetime
 
 #idk how to do checklists and such, if it encounters one it might crash - needs testing
 #if you really need this please open a github issue of pull request
-#Yet another notes app is referred to as notes for brevity
+#Another notes app is referred to as notes for brevity
 
 def main():
 	'''
